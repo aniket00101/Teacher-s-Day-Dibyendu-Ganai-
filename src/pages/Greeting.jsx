@@ -40,7 +40,7 @@ const TeacherDayCard = () => {
 
         <h1 className="text-4xl font-bold text-purple-300 mb-4 animate-pulse text-center">Happy Teacher's Day!</h1>
 
-        <p className="text-xl text-gray-200 mb-6 text-center">Dear <span className="font-semibold text-pink-400">Dibyendu Ganai</span>,</p>
+        <p className="text-xl text-gray-200 mb-6 text-center">Dear <span className="font-semibold text-pink-400">Dibyendu Ganai</span>Sir,</p>
 
         <p className="text-center italic text-lg text-gray-200 mb-8 animate-fadeInSlow">"Teaching is the one profession that creates all other professions."<br />"A good teacher can inspire hope, ignite imagination, and instill a love of learning."</p>
 

@@ -71,7 +71,7 @@ const InteractiveDoor = () => {
                     )}
 
                     <span className="relative z-10">
-                        {isOpening ? 'Opening...' : 'Open the Door'}
+                        {isOpening ? 'Opening...' : 'Click Here to Open Door'}
                     </span>
 
                     {!isOpening && Array.from({ length: 4 }).map((_, i) => (
